@@ -1,0 +1,1 @@
+const createLogo = require('./lib/shapes');
