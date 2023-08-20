@@ -1,1 +1,1 @@
-const createLogo = require('./lib/shapes');
+const createLogo = require("./lib/shapes.js");
